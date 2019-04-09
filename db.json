@@ -1,0 +1,127 @@
+{
+  "products" : [
+  {
+  "kode_produk": 1,
+  "nama_produk": "Wakami Seaweed",
+  "jumlah_produk": 34
+}, {
+  "kode_produk": 2,
+  "nama_produk": "Wine - Rhine Riesling Wolf Blass",
+  "jumlah_produk": 72
+}, {
+  "kode_produk": 3,
+  "nama_produk": "Beer - Camerons Cream Ale",
+  "jumlah_produk": 35
+}, {
+  "kode_produk": 4,
+  "nama_produk": "Beef - Diced",
+  "jumlah_produk": 40
+}, {
+  "kode_produk": 5,
+  "nama_produk": "Coffee Cup 16oz Foam",
+  "jumlah_produk": 95
+}, {
+  "kode_produk": 6,
+  "nama_produk": "Lobster - Live",
+  "jumlah_produk": 81
+}, {
+  "kode_produk": 7,
+  "nama_produk": "Icecream Bar - Del Monte",
+  "jumlah_produk": 50
+}, {
+  "kode_produk": 8,
+  "nama_produk": "Bay Leaf Ground",
+  "jumlah_produk": 5
+}, {
+  "kode_produk": 9,
+  "nama_produk": "Chocolate - Unsweetened",
+  "jumlah_produk": 23
+}, {
+  "kode_produk": 10,
+  "nama_produk": "Banana - Green",
+  "jumlah_produk": 37
+}, {
+  "kode_produk": 11,
+  "nama_produk": "Gelatine Leaves - Envelopes",
+  "jumlah_produk": 28
+}, {
+  "kode_produk": 12,
+  "nama_produk": "Mikes Hard Lemonade",
+  "jumlah_produk": 3
+}, {
+  "kode_produk": 13,
+  "nama_produk": "Wine - Chianti Classica Docg",
+  "jumlah_produk": 50
+}, {
+  "kode_produk": 14,
+  "nama_produk": "Rum - Dark, Bacardi, Black",
+  "jumlah_produk": 62
+}, {
+  "kode_produk": 15,
+  "nama_produk": "Basil - Dry, Rubbed",
+  "jumlah_produk": 1
+}, {
+  "kode_produk": 16,
+  "nama_produk": "Wine - Pinot Noir Pond Haddock",
+  "jumlah_produk": 100
+}, {
+  "kode_produk": 17,
+  "nama_produk": "Pineapple - Regular",
+  "jumlah_produk": 1
+}, {
+  "kode_produk": 18,
+  "nama_produk": "Basil - Primerba, Paste",
+  "jumlah_produk": 88
+}, {
+  "kode_produk": 19,
+  "nama_produk": "Lid Coffeecup 12oz D9542b",
+  "jumlah_produk": 63
+}, {
+  "kode_produk": 20,
+  "nama_produk": "Pastry - Lemon Danish - Mini",
+  "jumlah_produk": 22
+}, {
+  "kode_produk": 21,
+  "nama_produk": "Myers Planters Punch",
+  "jumlah_produk": 15
+}, {
+  "kode_produk": 22,
+  "nama_produk": "Longos - Grilled Salmon With Bbq",
+  "jumlah_produk": 23
+}, {
+  "kode_produk": 23,
+  "nama_produk": "Chickhen - Chicken Phyllo",
+  "jumlah_produk": 78
+}, {
+  "kode_produk": 24,
+  "nama_produk": "Cod - Black Whole Fillet",
+  "jumlah_produk": 27
+}, {
+  "kode_produk": 25,
+  "nama_produk": "Tomatoes - Heirloom",
+  "jumlah_produk": 61
+}, {
+  "kode_produk": 26,
+  "nama_produk": "Beef - Inside Round",
+  "jumlah_produk": 95
+}, {
+  "kode_produk": 27,
+  "nama_produk": "Longos - Penne With Pesto",
+  "jumlah_produk": 82
+}, {
+  "kode_produk": 28,
+  "nama_produk": "Cookie Dough - Chunky",
+  "jumlah_produk": 29
+}, {
+  "kode_produk": 29,
+  "nama_produk": "Table Cloth 62x114 White",
+  "jumlah_produk": 58
+}, {
+  "kode_produk": 30,
+  "nama_produk": "Carrots - Mini Red Organic",
+  "jumlah_produk": 78
+}]
+
+}
+  
+  
